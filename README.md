@@ -93,19 +93,6 @@ export const auth = getAuth(app);
 ```
 
 ---
+## 👩‍💻 Author
 
-## 📸 Screenshots
-
-*(Add screenshots of login, dashboard, chart, dark mode etc.)*
-
----
-
-## 📄 License
-
-MIT License
-
----
-
-## 💡 About
-
-Made with ❤️ by **Arzu Singh**
+Arzu Singh
